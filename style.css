@@ -1,0 +1,25 @@
+/* style.css */
+
+/* Give the whole page a background */
+body {
+    background-color: #f8b1ff;
+    font-family: Arial, sans-serif;
+}
+
+/* Headings */
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+/* Paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Images */
+img {
+    width: 200px;
+    height: auto;
+}
